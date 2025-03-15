@@ -33,7 +33,10 @@ This is a simple implementation of the classic 2048 game, where players slide nu
 - JavaScript
 
 ## Screenshots
-(Include game screenshots here)
+
+### Gameplay
+![2048 Game Screenshot](Screenshot 2025-03-15 215128.png)
+
 
 ## Future Improvements
 - Add undo functionality.
