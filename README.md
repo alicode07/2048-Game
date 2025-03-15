@@ -35,7 +35,7 @@ This is a simple implementation of the classic 2048 game, where players slide nu
 ## Screenshots
 
 ### Gameplay
-![2048 Game Screenshot](Screenshot 2025-03-15 215128.png)
+![2048 Game Screenshot](2048-screenshot.png)
 
 
 ## Future Improvements
