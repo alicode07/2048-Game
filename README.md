@@ -23,7 +23,7 @@ This is a simple implementation of the classic 2048 game, where players slide nu
 ### Option 2: Run Locally
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/2048-game.git
+   git clone https://github.com/alicode07/2048-game.git
    ```
 2. Open `index.html` in your browser.
 
